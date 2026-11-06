@@ -1,0 +1,7 @@
+Launch steam prior to launching game!
+
+To play game, go inside the 'Mimic.Party.Build.25319031' folder, right click and run 'Mimic Party' as administrator
+
+If you get any missing dll errors or the game isn't launching, go inside the _Redist folder and install all 8 programs in the folder
+
+For more FREE STEAM GAMES, visit steamunlocked.org
